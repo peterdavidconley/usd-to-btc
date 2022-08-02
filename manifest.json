@@ -1,0 +1,6 @@
+{
+  "name": "USD to BTC",
+  "description": "Convert fiat denominated values to BTC or sats in real time",
+  "version": "1.0",
+  "manifest_version": 3
+}
